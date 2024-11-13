@@ -23,9 +23,6 @@ I'm a passionate **Full Stack Software Engineer** with a love for building robus
 ## 📫 How to reach me...
 - Email: abdullah.maher.egy@gmail.com
 - LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- Twitter: [@thunderndwind](https://twitter.com/thunderndwind)
-
-## 😄 Pronouns: he/him
 
 ## ⚡ Fun fact: 
 I enjoy experimenting with AI and machine learning in my free time!
