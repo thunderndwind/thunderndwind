@@ -22,7 +22,7 @@ I'm a passionate **Full Stack Software Engineer** with a love for building robus
 
 ## 📫 How to reach me...
 - Email: abdullah.maher.egy@gmail.com
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/abdalla-ashraf-developer)
 
 ## ⚡ Fun fact: 
 I enjoy experimenting with AI and machine learning in my free time!
