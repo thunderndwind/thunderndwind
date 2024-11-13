@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @thunderndwind
+# 👋 Hi, I’m Abdullah Maher
 
 I'm a passionate **Full Stack Software Engineer** with a love for building robust, scalable applications. I specialize in both front-end and back-end development, crafting seamless user experiences while working with cutting-edge technologies.
 
@@ -9,7 +9,7 @@ I'm a passionate **Full Stack Software Engineer** with a love for building robus
 - Building products that solve real-world problems
 
 ## 🌱 I’m currently learning...
-- Exploring new features in **React** and **Vue.js**
+- Exploring new features in **React** and **FastAPI**
 - Advanced concepts in **TypeScript**
 - Dive deeper into **GraphQL** and modern API design
 - **DevOps** practices and **CI/CD pipelines**
@@ -28,7 +28,7 @@ I'm a passionate **Full Stack Software Engineer** with a love for building robus
 ## 😄 Pronouns: he/him
 
 ## ⚡ Fun fact: 
-When I'm not coding, I love to play chess, binge-watch sci-fi shows, and explore new hiking trails. Also, I enjoy experimenting with AI and machine learning in my free time!
+I enjoy experimenting with AI and machine learning in my free time!
 
 ---
 Feel free to reach out if you'd like to collaborate or chat about tech! 🚀
